@@ -1,0 +1,137 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+    "uid" : "8cfc2e759bad6fe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1564083993393,
+      "stop" : 1564084006793,
+      "duration" : 13400
+    },
+    "flaky" : false,
+    "parameters" : [ "CHROME" ]
+  }, {
+    "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+    "uid" : "2c400ce355617890",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1564083998129,
+      "stop" : 1564084010127,
+      "duration" : 11998
+    },
+    "flaky" : false,
+    "parameters" : [ "FIREFOX" ]
+  }, {
+    "name" : "addToCart",
+    "uid" : "6b22b63053a196dd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1564084023696,
+      "stop" : 1564084046900,
+      "duration" : 23204
+    },
+    "flaky" : false,
+    "parameters" : [ "CHROME" ]
+  }, {
+    "name" : "addToCart",
+    "uid" : "7f95ac29e656c9e0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1564084031266,
+      "stop" : 1564084050295,
+      "duration" : 19029
+    },
+    "flaky" : false,
+    "parameters" : [ "FIREFOX" ]
+  }, {
+    "name" : "successfulPurchase",
+    "uid" : "91a233e190b8bf68",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1564084060037,
+      "stop" : 1564084098467,
+      "duration" : 38430
+    },
+    "flaky" : false,
+    "parameters" : [ "CHROME" ]
+  }, {
+    "name" : "successfulPurchase",
+    "uid" : "a931d4846e260549",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1564084075502,
+      "stop" : 1564084114607,
+      "duration" : 39105
+    },
+    "flaky" : false,
+    "parameters" : [ "FIREFOX" ]
+  }, {
+    "name" : "dataDrivenTest",
+    "uid" : "f30bacbcb163611",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1564084207583,
+      "stop" : 1564084219333,
+      "duration" : 11750
+    },
+    "flaky" : false,
+    "parameters" : [ "CHROME" ]
+  }, {
+    "name" : "dataDrivenTest",
+    "uid" : "932416b16ca5298c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1564084243380,
+      "stop" : 1564084253873,
+      "duration" : 10493
+    },
+    "flaky" : false,
+    "parameters" : [ "FIREFOX" ]
+  }, {
+    "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+    "uid" : "c9395c05d2c618f4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1564084276820,
+      "stop" : 1564084293285,
+      "duration" : 16465
+    },
+    "flaky" : false,
+    "parameters" : [ "FIREFOX" ]
+  }, {
+    "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+    "uid" : "f585bc515d9de871",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1564084291600,
+      "stop" : 1564084291618,
+      "duration" : 18
+    },
+    "flaky" : false,
+    "parameters" : [ "CHROME" ]
+  }, {
+    "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+    "uid" : "b9f2b3fc3f69c763",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1564084513607,
+      "stop" : 1564084521762,
+      "duration" : 8155
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,114 @@
+{
+  "uid" : "a931d4846e260549",
+  "name" : "successfulPurchase",
+  "fullName" : "tests.Functional.SuccessfulPurchase.successfulPurchase",
+  "historyId" : "247841f66e17845de022556ba3fbc559",
+  "time" : {
+    "start" : 1564084075502,
+    "stop" : 1564084114607,
+    "duration" : 39105
+  },
+  "description" : "The goal of this test is to log in using proper username and password\n       add a product to cart and finalize the order",
+  "descriptionHtml" : "<p>The goal of this test is to log in using proper username and password\nadd a product to cart and finalize the order</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1564084055002,
+      "stop" : 1564084075496,
+      "duration" : 20494
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1564084054999,
+      "stop" : 1564084055001,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1564084114609,
+      "stop" : 1564084119104,
+      "duration" : 4495
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d34d8c7eb7648a39",
+      "name" : "Page screenshot",
+      "source" : "d34d8c7eb7648a39.png",
+      "type" : "image/png",
+      "size" : 85993
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Functional.SuccessfulPurchase"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Functional.SuccessfulPurchase"
+  }, {
+    "name" : "testMethod",
+    "value" : "successfulPurchase"
+  }, {
+    "name" : "parentSuite",
+    "value" : "User Paths - Shopping"
+  }, {
+    "name" : "suite",
+    "value" : "Shopping process - Firefox"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Functional.SuccessfulPurchase"
+  }, {
+    "name" : "host",
+    "value" : "Basia-Komp"
+  }, {
+    "name" : "thread",
+    "value" : "511192@Basia-Komp.TestNG-tests-1(16)"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "FIREFOX"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a931d4846e260549.json",
+  "parameterValues" : [ "FIREFOX" ]
+}

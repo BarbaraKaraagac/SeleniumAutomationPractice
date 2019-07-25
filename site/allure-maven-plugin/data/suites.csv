@@ -1,0 +1,23 @@
+"Status","Name","Duration in ms","Description"
+"failed","tests.Performance.PageLoad.asUserTryToLogInWithAcorrectLoginAndPassword","16465","The goal of this test is to validate the login time 
+(as per the condition - below 8 seconds)."
+"broken","tests.Performance.PageLoad.asUserTryToLogInWithAcorrectLoginAndPassword","18","The goal of this test is to validate the login time 
+(as per the condition - below 8 seconds)."
+"passed","tests.Security.DDTTests.dataDrivenTest","10493","This test mocks malicious login attempts, taking data from the Excel file"" +
+"
+"passed","tests.Functional.SuccessfulLoginTests.asUserTryToLogInWithAcorrectLoginAndPassword","11998","The goal of this test is to log in using proper username and password"" +
+            "" and check if MY ACCOUNT is displayed after"
+"passed","tests.Security.DDTTests.dataDrivenTest","11750","This test mocks malicious login attempts, taking data from the Excel file"" +
+"
+"passed","tests.Functional.AddToCart.addToCart","23204","The goal of this test is to log in using proper username and password and
+       add a product to the cart."
+"passed","tests.Functional.SuccessfulLoginTests.asUserTryToLogInWithAcorrectLoginAndPassword","13400","The goal of this test is to log in using proper username and password"" +
+            "" and check if MY ACCOUNT is displayed after"
+"passed","tests.Functional.SuccessfulLoginTests.asUserTryToLogInWithAcorrectLoginAndPassword","8155","The goal of this test is to log in using proper username and password"" +
+            "" and check if MY ACCOUNT is displayed after"
+"passed","tests.Functional.SuccessfulPurchase.successfulPurchase","39105","The goal of this test is to log in using proper username and password
+       add a product to cart and finalize the order"
+"passed","tests.Functional.SuccessfulPurchase.successfulPurchase","38430","The goal of this test is to log in using proper username and password
+       add a product to cart and finalize the order"
+"passed","tests.Functional.AddToCart.addToCart","19029","The goal of this test is to log in using proper username and password and
+       add a product to the cart."

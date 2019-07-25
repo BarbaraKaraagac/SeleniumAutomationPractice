@@ -1,0 +1,114 @@
+{
+  "uid" : "91a233e190b8bf68",
+  "name" : "successfulPurchase",
+  "fullName" : "tests.Functional.SuccessfulPurchase.successfulPurchase",
+  "historyId" : "5b8c160add2d7445d3f0e8685d13c928",
+  "time" : {
+    "start" : 1564084060037,
+    "stop" : 1564084098467,
+    "duration" : 38430
+  },
+  "description" : "The goal of this test is to log in using proper username and password\n       add a product to cart and finalize the order",
+  "descriptionHtml" : "<p>The goal of this test is to log in using proper username and password\nadd a product to cart and finalize the order</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1564084049045,
+      "stop" : 1564084060032,
+      "duration" : 10987
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1564084049029,
+      "stop" : 1564084049035,
+      "duration" : 6
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1564084098470,
+      "stop" : 1564084099793,
+      "duration" : 1323
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "40185c56a08cd6eb",
+      "name" : "Page screenshot",
+      "source" : "40185c56a08cd6eb.png",
+      "type" : "image/png",
+      "size" : 103368
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Functional.SuccessfulPurchase"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Functional.SuccessfulPurchase"
+  }, {
+    "name" : "testMethod",
+    "value" : "successfulPurchase"
+  }, {
+    "name" : "parentSuite",
+    "value" : "User Paths - Shopping"
+  }, {
+    "name" : "suite",
+    "value" : "Shopping process - Chrome"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Functional.SuccessfulPurchase"
+  }, {
+    "name" : "host",
+    "value" : "Basia-Komp"
+  }, {
+    "name" : "thread",
+    "value" : "511192@Basia-Komp.TestNG-tests-2(17)"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "CHROME"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91a233e190b8bf68.json",
+  "parameterValues" : [ "CHROME" ]
+}

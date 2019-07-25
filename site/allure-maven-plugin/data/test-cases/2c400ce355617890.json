@@ -1,0 +1,114 @@
+{
+  "uid" : "2c400ce355617890",
+  "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+  "fullName" : "tests.Functional.SuccessfulLoginTests.asUserTryToLogInWithAcorrectLoginAndPassword",
+  "historyId" : "6cd6d599bbc4cf35a53e87be1c27f30f",
+  "time" : {
+    "start" : 1564083998129,
+    "stop" : 1564084010127,
+    "duration" : 11998
+  },
+  "description" : "The goal of this test is to log in using proper username and password\" +\n            \" and check if MY ACCOUNT is displayed after",
+  "descriptionHtml" : "<p>The goal of this test is to log in using proper username and password&quot; +\n&quot; and check if MY ACCOUNT is displayed after</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1564083972990,
+      "stop" : 1564083973076,
+      "duration" : 86
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1564083973153,
+      "stop" : 1564083998123,
+      "duration" : 24970
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1564084010130,
+      "stop" : 1564084014948,
+      "duration" : 4818
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ee33cc738eb3043b",
+      "name" : "Page screenshot",
+      "source" : "ee33cc738eb3043b.png",
+      "type" : "image/png",
+      "size" : 93868
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Functional.SuccessfulLoginTests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Functional.SuccessfulLoginTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "asUserTryToLogInWithAcorrectLoginAndPassword"
+  }, {
+    "name" : "parentSuite",
+    "value" : "User Paths - Shopping"
+  }, {
+    "name" : "suite",
+    "value" : "Shopping process - Firefox"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Functional.SuccessfulLoginTests"
+  }, {
+    "name" : "host",
+    "value" : "Basia-Komp"
+  }, {
+    "name" : "thread",
+    "value" : "511192@Basia-Komp.TestNG-tests-1(16)"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "FIREFOX"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c400ce355617890.json",
+  "parameterValues" : [ "FIREFOX" ]
+}

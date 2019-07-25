@@ -1,0 +1,201 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "User Paths - Shopping",
+    "children" : [ {
+      "name" : "Shopping process - Chrome",
+      "children" : [ {
+        "name" : "tests.Functional.SuccessfulLoginTests",
+        "children" : [ {
+          "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+          "uid" : "8cfc2e759bad6fe",
+          "parentUid" : "80263c3040fb47ed622cc7664aeb74ee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564083993393,
+            "stop" : 1564084006793,
+            "duration" : 13400
+          },
+          "flaky" : false,
+          "parameters" : [ "CHROME" ]
+        } ],
+        "uid" : "80263c3040fb47ed622cc7664aeb74ee"
+      }, {
+        "name" : "tests.Functional.AddToCart",
+        "children" : [ {
+          "name" : "addToCart",
+          "uid" : "6b22b63053a196dd",
+          "parentUid" : "5fbdad711db950b50c93a60a95618d4f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564084023696,
+            "stop" : 1564084046900,
+            "duration" : 23204
+          },
+          "flaky" : false,
+          "parameters" : [ "CHROME" ]
+        } ],
+        "uid" : "5fbdad711db950b50c93a60a95618d4f"
+      }, {
+        "name" : "tests.Functional.SuccessfulPurchase",
+        "children" : [ {
+          "name" : "successfulPurchase",
+          "uid" : "91a233e190b8bf68",
+          "parentUid" : "c97758431a100adea52a2dcee35aa96c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564084060037,
+            "stop" : 1564084098467,
+            "duration" : 38430
+          },
+          "flaky" : false,
+          "parameters" : [ "CHROME" ]
+        } ],
+        "uid" : "c97758431a100adea52a2dcee35aa96c"
+      }, {
+        "name" : "tests.Security.DDTTests",
+        "children" : [ {
+          "name" : "dataDrivenTest",
+          "uid" : "f30bacbcb163611",
+          "parentUid" : "78b54da8859043e3d4baa204a57d2b93",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564084207583,
+            "stop" : 1564084219333,
+            "duration" : 11750
+          },
+          "flaky" : false,
+          "parameters" : [ "CHROME" ]
+        } ],
+        "uid" : "78b54da8859043e3d4baa204a57d2b93"
+      }, {
+        "name" : "tests.Performance.PageLoad",
+        "children" : [ {
+          "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+          "uid" : "f585bc515d9de871",
+          "parentUid" : "3faa7779860cb11a991f1647dac80fa1",
+          "status" : "broken",
+          "time" : {
+            "start" : 1564084291600,
+            "stop" : 1564084291618,
+            "duration" : 18
+          },
+          "flaky" : false,
+          "parameters" : [ "CHROME" ]
+        } ],
+        "uid" : "3faa7779860cb11a991f1647dac80fa1"
+      } ],
+      "uid" : "5ac581a55173ea098df845ae423e3fe4"
+    }, {
+      "name" : "Shopping process - Firefox",
+      "children" : [ {
+        "name" : "tests.Functional.SuccessfulLoginTests",
+        "children" : [ {
+          "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+          "uid" : "2c400ce355617890",
+          "parentUid" : "1bdacb89b062e7e114a5efca2a230e66",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564083998129,
+            "stop" : 1564084010127,
+            "duration" : 11998
+          },
+          "flaky" : false,
+          "parameters" : [ "FIREFOX" ]
+        } ],
+        "uid" : "1bdacb89b062e7e114a5efca2a230e66"
+      }, {
+        "name" : "tests.Functional.AddToCart",
+        "children" : [ {
+          "name" : "addToCart",
+          "uid" : "7f95ac29e656c9e0",
+          "parentUid" : "699357dbc1c34f81f13435c7986572e3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564084031266,
+            "stop" : 1564084050295,
+            "duration" : 19029
+          },
+          "flaky" : false,
+          "parameters" : [ "FIREFOX" ]
+        } ],
+        "uid" : "699357dbc1c34f81f13435c7986572e3"
+      }, {
+        "name" : "tests.Functional.SuccessfulPurchase",
+        "children" : [ {
+          "name" : "successfulPurchase",
+          "uid" : "a931d4846e260549",
+          "parentUid" : "742599aa8f067dcff270d9140a4fa165",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564084075502,
+            "stop" : 1564084114607,
+            "duration" : 39105
+          },
+          "flaky" : false,
+          "parameters" : [ "FIREFOX" ]
+        } ],
+        "uid" : "742599aa8f067dcff270d9140a4fa165"
+      }, {
+        "name" : "tests.Security.DDTTests",
+        "children" : [ {
+          "name" : "dataDrivenTest",
+          "uid" : "932416b16ca5298c",
+          "parentUid" : "7a3292841cae8a02cbd17d0ac9e9ab55",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564084243380,
+            "stop" : 1564084253873,
+            "duration" : 10493
+          },
+          "flaky" : false,
+          "parameters" : [ "FIREFOX" ]
+        } ],
+        "uid" : "7a3292841cae8a02cbd17d0ac9e9ab55"
+      }, {
+        "name" : "tests.Performance.PageLoad",
+        "children" : [ {
+          "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+          "uid" : "c9395c05d2c618f4",
+          "parentUid" : "4756b62ed44e1ae43b1f11cf28366568",
+          "status" : "failed",
+          "time" : {
+            "start" : 1564084276820,
+            "stop" : 1564084293285,
+            "duration" : 16465
+          },
+          "flaky" : false,
+          "parameters" : [ "FIREFOX" ]
+        } ],
+        "uid" : "4756b62ed44e1ae43b1f11cf28366568"
+      } ],
+      "uid" : "ccb4a7f47a99258b0429659892c194fe"
+    } ],
+    "uid" : "386872b966467ad6b129f3d09a788b09"
+  }, {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "seleniumintro2",
+      "children" : [ {
+        "name" : "tests.Functional.SuccessfulLoginTests",
+        "children" : [ {
+          "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+          "uid" : "b9f2b3fc3f69c763",
+          "parentUid" : "a8e7a23e37f9c0e2b24a5bd1a6f63acc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564084513607,
+            "stop" : 1564084521762,
+            "duration" : 8155
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a8e7a23e37f9c0e2b24a5bd1a6f63acc"
+      } ],
+      "uid" : "92d1e1dcc9793aa06be5696e986ff6ca"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "",
+      "children" : [ {
+        "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+        "uid" : "c9395c05d2c618f4",
+        "parentUid" : "ac137dbdc3eb70d55d947f065b65fff1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1564084276820,
+          "stop" : 1564084293285,
+          "duration" : 16465
+        },
+        "flaky" : false,
+        "parameters" : [ "FIREFOX" ]
+      } ],
+      "uid" : "ac137dbdc3eb70d55d947f065b65fff1"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Stopwatch already started. ",
+      "children" : [ {
+        "name" : "asUserTryToLogInWithAcorrectLoginAndPassword",
+        "uid" : "f585bc515d9de871",
+        "parentUid" : "3107ab8deae1eee5b9809f8e5125ce36",
+        "status" : "broken",
+        "time" : {
+          "start" : 1564084291600,
+          "stop" : 1564084291618,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "parameters" : [ "CHROME" ]
+      } ],
+      "uid" : "3107ab8deae1eee5b9809f8e5125ce36"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

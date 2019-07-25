@@ -1,0 +1,157 @@
+{
+  "uid" : "e833dcf370ea530e",
+  "name" : "dataDrivenTest",
+  "fullName" : "tests.Security.DDTTests.dataDrivenTest",
+  "historyId" : "b436f34ef84d6c5c4945365e94394e68",
+  "time" : {
+    "start" : 1564084213124,
+    "stop" : 1564084223047,
+    "duration" : 9923
+  },
+  "description" : "This test mocks malicious login attempts, taking data from the Excel file\" +\n",
+  "descriptionHtml" : "<p>This test mocks malicious login attempts, taking data from the Excel file&quot; +</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1564084119107,
+      "stop" : 1564084119109,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1564084153835,
+      "stop" : 1564084153837,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1564084190518,
+      "stop" : 1564084190519,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1564084227408,
+      "stop" : 1564084227410,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1564084190520,
+      "stop" : 1564084213119,
+      "duration" : 22599
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1564084223051,
+      "stop" : 1564084227406,
+      "duration" : 4355
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "133e4930bf7519e",
+      "name" : "Page screenshot",
+      "source" : "133e4930bf7519e.png",
+      "type" : "image/png",
+      "size" : 83868
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Security.DDTTests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Security.DDTTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "dataDrivenTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "User Paths - Shopping"
+  }, {
+    "name" : "suite",
+    "value" : "Shopping process - Firefox"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Security.DDTTests"
+  }, {
+    "name" : "host",
+    "value" : "Basia-Komp"
+  }, {
+    "name" : "thread",
+    "value" : "511192@Basia-Komp.TestNG-tests-1(16)"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "FIREFOX"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e833dcf370ea530e.json",
+  "parameterValues" : [ "FIREFOX" ]
+}
