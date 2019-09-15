@@ -7,13 +7,13 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 
-//Klasa służy do odczytania zadanego pliku z rozszerzenie *.xlsx, a następnie pobrania arkusza o danej nazwie
+//This class reads a given *.xlsx file and a given spreadsheet
 public class ExcelSheetReader {
 
     private XSSFWorkbook excelWBook;
     private XSSFSheet excelWSheet;
 
-    //Metoda służy do odczytania arkusza o danej nazwie dla zadanego pliku *.xlsx
+    //Reading a spreadsheet with a given name *.xlsx
     public void setExcelFileSheet(String excelFileLocation, String sheetName) throws IOException {
         FileInputStream ExcelFile = new FileInputStream(excelFileLocation);
         excelWBook = new XSSFWorkbook(ExcelFile);
@@ -23,7 +23,6 @@ public class ExcelSheetReader {
         }
     }
 
-    //Pobranie przeczytanego wcześniej arkusza
     public XSSFSheet getExcelSheet() {
         return excelWSheet;
     }
